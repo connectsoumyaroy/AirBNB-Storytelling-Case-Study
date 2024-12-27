@@ -1,11 +1,11 @@
 # Storytelling-Case-Study-Airbnb
  Visualise data related to Airbnbs in New York and present insights to various stakeholders.
  
- [python notebook](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Untitled.ipynb) Contains the python code and analysis.
+ [python notebook](https://github.com/connectsoumyaroy/AirBNB-Storytelling-Case-Study/blob/main/AirBNB.ipynb) Contains the python code and analysis.
  
- [PPT-I.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-I.pdf) This presentation is heavily technical and is for Data Analysis Managers and Lead Data Analysts.
+ [PPT-I.pdf](https://github.com/connectsoumyaroy/AirBNB-Storytelling-Case-Study/blob/main/Presentations/PPT-1.pdf) This presentation is heavily technical and is for Data Analysis Managers and Lead Data Analysts.
  
- [PPT-II.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-2.pdf) This presentation is for decision makers and stake holders.
+ [PPT-II.pdf](https://github.com/connectsoumyaroy/AirBNB-Storytelling-Case-Study/blob/main/Presentations/PPT-2.pdf) This presentation is for decision makers and stake holders.
  
  ## Objective
 - To Provide insight into the current market situation.
@@ -17,18 +17,14 @@ teams
 prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, give two presentations to the following groups.
 
 ## Presentation - I
-<kbd>  ![](images/p1.PNG)  </kbd>
-
-[PPT-I.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-I.pdf)
+[PPT-I.pdf](https://github.com/connectsoumyaroy/AirBNB-Storytelling-Case-Study/blob/main/Presentations/PPT-1.pdf)
 
 This presentation is for,
 - Data Analysis Managers: These people manage the data analysts directly for processes and their technical expertise is basic.
 - Lead Data Analyst: The lead data analyst looks after the entire team of data and business analysts and is technically sound.
 
 ## Presentation - II
-<kbd>  ![](images/p2.PNG)  </kbd>
-
-[PPT-II.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-2.pdf)
+[PPT-II.pdf](https://github.com/connectsoumyaroy/AirBNB-Storytelling-Case-Study/blob/main/Presentations/PPT-2.pdf)
 
 This presentation is for,
 - Head of Acquisitions and Operations, NYC: This head looks after all the property and host acquisitions and operations. Acquisition of the best properties, price negotiation, and negotiating the services the properties offer falls under the purview of this role.
@@ -36,10 +32,10 @@ This presentation is for,
 
 ## Dashboard
 
-[Preview Tableau Dashboard](https://public.tableau.com/app/profile/abhijith.cv/viz/UNVEILINGTHESECRETSOFAIRBNBINNYCADATA-DRIVENSTORY/Dashboard1?publish=yes)
+[Preview Tableau Dashboard](https://public.tableau.com/app/profile/soumya.roy4268/viz/AirBNB_17353017852250/Dashboard1)
 
 An interactive dashboard is made to provide users with a dynamic and flexible way to explore and analyze data. This allows users to interact with data in real-time and customize the display of information to suit their needs.
-<kbd>  ![](images/dash1.PNG)  </kbd>
+<kbd>  ![](images/Dashboard 1.png)  </kbd>
 
 ## Key findings
 These are the key findings to enhance our understanding of property and host acquisitions,operations, and customer preferences.
